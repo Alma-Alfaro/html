@@ -1,0 +1,54 @@
+
+body {
+    background-color: rgb(37, 32, 32);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    background-size: cover;
+}
+img{
+    border-radius: 10%;
+}
+.contenedor{
+    max-width: 1200px;
+    width: 100%;
+    background: none;
+    margin: auto;
+    text-align: center;
+    padding: 100px 0px 0px;
+    
+}
+
+.botonIzquierdo{
+    position: absolute;
+    float:left; 
+    margin-top: 550px; 
+    margin-right: auto;
+    display: block;
+    width: 130px;
+    height: 110px;
+    border-radius: 5%;
+    padding: 0px 0px 0px;
+    font-size: 40px;
+    font-family: monospace ;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: aqua;
+}
+
+.botonDerecho{
+    float:right; 
+    margin-top: -680px; 
+    margin-right: auto;
+    display: block;
+    width: 130px;
+    height: 110px;
+    border-radius: 5%;
+    padding: 0px 0px 0px;
+    font-size: 40px;
+    font-family: monospace ;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: aqua;
+}
