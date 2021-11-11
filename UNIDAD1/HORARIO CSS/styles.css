@@ -1,0 +1,27 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+div{
+    background-color: blue;
+}
+th{
+color: rgb(44, 43, 42);
+font-size: 20px;
+}
+body{
+    background-color: rgb(233, 222, 173); 
+}
+#ingles{
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+#receso{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}

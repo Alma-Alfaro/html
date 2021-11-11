@@ -1,0 +1,19 @@
+.img {
+    display: block;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    width: 20%;
+  }
+  
+  body {
+    background-color: rgb(243, 239, 233);
+    font-size: larger;
+  }
+  .center {
+    background-color: rgb(238, 237, 226);
+    margin: auto;
+    width: 70%;
+    border: 3px solid rgb(248, 170, 24);
+    padding: 15px;
+  }
+  
