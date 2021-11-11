@@ -84,7 +84,7 @@
             <li ><a href="UNIDAD2/evidencia2-3/index.php" class="textoDos">Calculadora Basica </a></li>
             <li ><a href="UNIDAD2/evidencia2-4/index.php" class="textoDos">Calculadora de IMC </a></li>
             <li ><a href="UNIDAD2/evidencia2-5/index.php" class="textoDos">Calculadora Aritmetica </a></li>
-            <li ><a href="carrusel.php" class="textoDos">Carrusel de Imagenes</a></li>
+            <li ><a href="UNIDAD2/evidencia2-6/index.php".php" class="textoDos">Carrusel de Imagenes</a></li>
 
             <h3>Unidad 3</h3>
                 <ul 
