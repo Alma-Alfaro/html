@@ -1,0 +1,131 @@
+
+header{
+	font-family: arial;
+	background-color: black;
+	display: flex;
+	font-size: 12px;
+	color: white;
+	@media only screen and (min-width: 600px) {
+	}
+}
+
+footer{
+	font-family: arial;
+	background-color: #333333;
+	display: flex;
+	font-size: 12px;
+	color: ;
+	width: auto;
+}
+
+img.alineadoTextoImagenCentro{
+  
+  height: 80px;
+}
+
+.cuadricula{
+	margin-right: 20%;
+	margin-left: 20%;
+	width: auto;
+}
+
+.beside{
+	text-decoration: underline;
+	width: auto;
+}
+
+#red{
+	color: red;
+}
+
+h1{
+	color: black;
+	margin-left: 25px;
+}
+
+
+
+.contenido{
+	background-color: white;
+	padding: 0px 10px;
+	width: 80%;
+	margin: auto;
+}
+
+.principal{
+	padding: 1px 10px;
+	display: flex;
+}
+
+body{
+	width: 80%;
+	min-width: 600px;
+	margin: auto;
+	background-image: url(../images/background_buildings.png);
+}
+
+a{
+	color: black;
+	text-decoration: underline;
+	margin: 10px;
+}
+
+nav{
+	background: linear-gradient(90deg, orange, white);
+	display: flex;
+	color: black;
+	text-decoration: none underline;
+}
+
+
+
+main{
+	width: 70%;
+}
+
+.secciones{
+	display: flex;
+}
+
+.secciones *{
+	padding: 5px;
+}
+
+
+main, aside{
+	padding: 10px;
+}
+
+
+aside{
+	width: 30%;
+}
+
+
+p{
+	text-align: justify;
+}
+
+/*Imagens*/
+
+
+.respon{
+	width: 100%;
+	
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.columna {
+  float: left;
+  width: 33%;
+  padding-right: 5px;
+}
+
+.fila::after {
+  content: "";
+  clear: both;
+  display: table;
+}

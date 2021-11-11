@@ -1,0 +1,32 @@
+header{
+	font-family: arial;
+	background-color: cadetblue;
+	display: flex;
+	font-size: 15px;
+	color: white;
+}
+a{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    color: black;
+	text-decoration: underline;
+	margin: 10px;
+
+}
+#v1{
+    font-family: cursive;
+    font-size: 15px;
+    color: darkblue
+}
+#v1{
+    text-align: center
+}
+.cuadricula{
+	margin-right: 20%;
+	margin-left: 20%;
+	width: auto;
+}
+body {
+    background-color: rgb(211, 212, 154);
+    font-size: larger;
+  }
