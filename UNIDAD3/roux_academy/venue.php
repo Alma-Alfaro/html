@@ -76,7 +76,7 @@ require('encabezadoUsuario.php');
   </aside>
   <!-- Sidebar -->
   <?php
-include('externosEncaPie/piePagina.php');
+include('piePagina.php');
 ?>
 </div>
 </body>
