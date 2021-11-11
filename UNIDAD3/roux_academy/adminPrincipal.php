@@ -71,7 +71,7 @@ require('encabezadoAdmin.php');
   <!-- Sidebar -->
 
 <?php
-include('externosEncaPie/piePagina.php');
+include('piePagina.php');
 ?>
 
 </div>
